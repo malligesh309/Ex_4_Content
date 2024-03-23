@@ -30,11 +30,11 @@ Step 8: Save and run the application.
 
 ## Program:
  ```
-/*
+
 Program to print the contact details by creating own content providers in Android Studio
 Developed by:   MALLIGESH M
 RegisterNumber:  212223230119
-*/
+
 ```
 
 ## MainActivity.java:
@@ -151,7 +151,6 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 ![Screenshot 2024-03-23 111308](https://github.com/malligesh309/Ex_4_Content/assets/140491043/6cee58ee-c858-4c6d-bfc2-21b328a26f12)
 
-![Screenshot 2024-03-23 111346](https://github.com/malligesh309/Ex_4_Content/assets/140491043/a050e97f-b8a9-49b7-b313-45bdcda3ab32)
 
 
 
